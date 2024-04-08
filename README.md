@@ -14,10 +14,10 @@ Hi Ben here
   <a href="https://discord.com/invite/n7ZGjznMgR">
     <img alt="discord-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-singular_vector.svg">
     <!-- Alternative Discord Image <img alt="discord-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg"> -->
-</a>&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/bencos2018">
-    <img alt="twitch-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/twitch-singular_vector.svg">
-    <!-- Alternative Twitch Image <img alt="twitch-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg"> -->
+#</a>&nbsp;&nbsp;
+#  <a href="https://www.twitch.tv/bencos2018">
+#    <img alt="twitch-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/twitch-singular_vector.svg">
+#    <!-- Alternative Twitch Image <img alt="twitch-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg"> -->
 </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/@bencos2018">
     <img alt="youtube-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/youtube-singular_vector.svg">
