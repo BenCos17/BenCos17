@@ -28,14 +28,11 @@ Hi Ben here
 You can find my projects below!
 
 <p align='center'>
-
   <a href="https://dashboard.jarvisdiscordbot.net/">
-    <img alt="My bot called J.A.R.V.I.S" height="40" src="[https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=1024]">
-    <!-- Alternative Modrinth Image <img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"> -->
+    <img alt="" height="40" src="https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=1024">
 </a>&nbsp;&nbsp;
   <a href="https://electronenclave.com/">
     <img alt="My blog called electronenclave.com" height="40" src="https://electronenclave.com/wp-content/uploads/2024/01/cropped-wordpress-image.jpg">
-    <!-- Alternative Curseforge Image <img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"> -->
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=BenCos17&show_icons=true&theme=codeSTACKr">
