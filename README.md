@@ -38,11 +38,15 @@ You can find my projects below!
     <!-- Alternative Curseforge Image <img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"> -->
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=BenCos17&show_icons=true&theme=midnight-purple">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=BenCos17&show_icons=true&theme=codeSTACKr">
 
 <p align='center'>
   💻 The Build<br/><br/>
-  <img src="https://img.shields.io/badge/Windows%11-%239745F5?style=for-the-badge&logo=windows11&label=OS&labelColor=%23000000" />
+  <img src="https://img.shields.io/badge/Windows%2011-%23D9562B?style=for-the-badge&logo=windows11&label=OS&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/Ryzen%205%205600X-%239745F5?style=for-the-badge&logo=amd&label=CPU&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/32GB-%239745F5?style=for-the-badge&logo=corsair&label=Ram&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/Radeon%20RX%207600-%239745F5?style=for-the-badge&logo=amd&label=GPU&labelColor=%23000000" />
+
+
+
+  <!-- If this comment is here it means Ben has stolen my code and not bothered to edit this out. (typical Ben lol) -->
