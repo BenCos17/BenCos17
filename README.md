@@ -29,10 +29,10 @@ You can find my projects below!
 
 <p align='center'>
   <a href="https://dashboard.jarvisdiscordbot.net/">
-    <img alt="" height="40" src="https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=1024">
+    <img alt="" height="80" src="https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=1024">
 </a>&nbsp;&nbsp;
   <a href="https://electronenclave.com/">
-    <img alt="My blog called electronenclave.com" height="40" src="https://electronenclave.com/wp-content/uploads/2024/01/cropped-wordpress-image.jpg">
+    <img alt="My blog called electronenclave.com" height="80" src="https://electronenclave.com/wp-content/uploads/2024/01/cropped-wordpress-image.jpg">
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=BenCos17&show_icons=true&theme=codeSTACKr">
