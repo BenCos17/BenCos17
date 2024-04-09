@@ -40,7 +40,7 @@ You can find my projects below!
 <p align='center'>
   💻 The Build<br/><br/>
   <img src="https://img.shields.io/badge/Windows%2011-%23D9562B?style=for-the-badge&logo=windows11&label=OS&labelColor=%23000000" />
-  <img src="https://img.shields.io/badge/Ryzen%209%205800X3D-%23D9562B?style=for-the-badge&logo=amd&label=CPU&labelColor=%23000000" />
+  <img src="https://img.shields.io/badge/Ryzen%207%205800X3D-%23D9562B?style=for-the-badge&logo=amd&label=CPU&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/32GB-%23D9562B?style=for-the-badge&logo=kingstontechnology&label=Ram&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/RTX%202070-%23D9562B?style=for-the-badge&logo=nvidia&label=GPU&labelColor=%23000000" />
 
