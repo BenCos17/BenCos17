@@ -28,21 +28,22 @@ Hi Ben here
 You can find my projects below!
 
 <p align='center'>
-
   <a href="https://dashboard.jarvisdiscordbot.net/">
-    <img alt="My bot called J.A.R.V.I.S" height="40" src="[https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=1024]">
-    <!-- Alternative Modrinth Image <img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"> -->
+    <img alt="" height="80" src="https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=1024">
 </a>&nbsp;&nbsp;
   <a href="https://electronenclave.com/">
-    <img alt="My blog called electronenclave.com" height="40" src="https://electronenclave.com/wp-content/uploads/2024/01/cropped-wordpress-image.jpg">
-    <!-- Alternative Curseforge Image <img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"> -->
+    <img alt="My blog called electronenclave.com" height="80" src="https://electronenclave.com/wp-content/uploads/2024/01/cropped-wordpress-image.jpg">
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=BenCos17&show_icons=true&theme=midnight-purple">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=BenCos17&show_icons=true&theme=codeSTACKr">
 
 <p align='center'>
   💻 The Build<br/><br/>
-  <img src="https://img.shields.io/badge/Windows%11-%239745F5?style=for-the-badge&logo=windows11&label=OS&labelColor=%23000000" />
+  <img src="https://img.shields.io/badge/Windows%2011-%23D9562B?style=for-the-badge&logo=windows11&label=OS&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/Ryzen%205%205600X-%239745F5?style=for-the-badge&logo=amd&label=CPU&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/32GB-%239745F5?style=for-the-badge&logo=corsair&label=Ram&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/Radeon%20RX%207600-%239745F5?style=for-the-badge&logo=amd&label=GPU&labelColor=%23000000" />
+
+
+
+  <!-- If this comment is here it means Ben has stolen my code and not bothered to edit this out. (typical Ben lol) -->
