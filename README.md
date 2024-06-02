@@ -28,7 +28,7 @@ Hi Ben here
 You can find my projects below!
 
 <p align='center'>
-  <a href="https://dashboard.jarvisdiscordbot.net/">
+  <a href="https://jarvisdiscordbot.net/">
     <img alt="" height="80" src="https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=1024">
 </a>&nbsp;&nbsp;
   <a href="https://electronenclave.com/">
