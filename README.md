@@ -44,7 +44,7 @@ You can find my projects below!
   <img src="https://img.shields.io/badge/32GB-%23D9562B?style=for-the-badge&logo=kingstontechnology&label=Ram&labelColor=%23000000" />
   <img src="https://img.shields.io/badge/RTX%202070-%23D9562B?style=for-the-badge&logo=nvidia&label=GPU&labelColor=%23000000" />
 
--# https://ie.pcpartpicker.com/list/JK9vTY
+
 
 
   <!-- If this comment is here it means Ben has stolen my code and not bothered to edit this out. (typical Ben lol) -->
