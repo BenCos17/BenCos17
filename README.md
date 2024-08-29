@@ -19,7 +19,7 @@ Hi Ben here
     <img alt="twitch-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/twitch-singular_vector.svg">
     <!-- Alternative Twitch Image <img alt="twitch-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitch-singular_vector.svg"> -->
 </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/@bencos2018">
+  <a href="https://www.youtube.com/@bencos2018">
     <img alt="youtube-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/youtube-singular_vector.svg">
     <!-- Alternative Youtube Image <img alt="youtube-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg"> -->
 </a>&nbsp;&nbsp;
